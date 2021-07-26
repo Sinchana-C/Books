@@ -21,5 +21,6 @@ Learn Python 3 the Hard Way
 
 ---
 ### Javascript:
-
+Learn Javascript Visually 
+-Ivelin Demirov
 
