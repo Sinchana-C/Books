@@ -24,3 +24,5 @@ Learn Python 3 the Hard Way
 Learn Javascript Visually 
 -Ivelin Demirov
 
+### C++
+C++ Pocket Reference
